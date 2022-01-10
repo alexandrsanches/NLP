@@ -4,13 +4,17 @@
 
 1. Baixar todos os PDFs
 
-| Revista                                                      | Início | Situação |
-| ------------------------------------------------------------ | ------ | -------- |
-| [Brazilian Journal of Political Economy](https://centrodeeconomiapolitica.org.br/repojs/index.php/journal/issue/archive) | 1981   |          |
-| [Nova Economia](https://revistas.face.ufmg.br/index.php/novaeconomia/issue/archive) | 1990   |          |
-| [Pesquisa e Planejamento Econômico](https://ppe.ipea.gov.br/index.php/ppe/index) | 1971   |          |
-| [Estudos Econômicos](https://www.revistas.usp.br/ee/issue/archive) | 1971   |          |
-| [Revista Brasileira de Economia](https://bibliotecadigital.fgv.br/ojs/index.php/rbe/issue/archive) | 1947   |          |
+| Nome                                                         | Publisher | Ínicio | Baixado? |
+| ------------------------------------------------------------ | --------- | ------ | -------- |
+| [RBE](https://bibliotecadigital.fgv.br/ojs/index.php/rbe/issue/archive) | FGV       | 1947   |          |
+| [REP](https://centrodeeconomiapolitica.org.br/repojs/index.php/journal) | CEP       | 2016   |          |
+| [REC](https://revistas.ufrj.br/index.php/rec/issue/archive)  | UFRJ      | 1997   |          |
+| [PPE](https://ppe.ipea.gov.br/index.php/ppe/issue/archive)   | Ipea      | 1971   |          |
+| [Estudos econômicos](https://www.revistas.usp.br/ee/issue/archive) | USP       | 1971   |          |
+| [Nova Economia](https://revistas.face.ufmg.br/index.php/novaeconomia/issue/archive) | UFMG      | 1990   |          |
+| [Economia e sociedade](https://www.scielo.br/j/ecos/grid)    | Unicamp   | 2007   |          |
+| [Revista da Anpec](http://www.anpec.org.br/novosite/br/revista) | Anpec     | 2000   |          |
+| [Brazilian Review of econometrics](https://bibliotecadigital.fgv.br/ojs/index.php/bre/issue/archive) | FGV       | 1981   |          |
 
 
 
