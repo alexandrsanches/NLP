@@ -6,7 +6,7 @@
 
 | Nome                                                         | Publisher | Ínicio | Baixado? |
 | ------------------------------------------------------------ | --------- | ------ | -------- |
-| [RBE](https://bibliotecadigital.fgv.br/ojs/index.php/rbe/issue/archive) | FGV       | 1947   |          |
+| [RBE](https://bibliotecadigital.fgv.br/ojs/index.php/rbe/issue/archive) | FGV       | 1947   | OK       |
 | [REP](https://centrodeeconomiapolitica.org.br/repojs/index.php/journal) | CEP       | 2016   |          |
 | [REC](https://revistas.ufrj.br/index.php/rec/issue/archive)  | UFRJ      | 1997   |          |
 | [PPE](https://ppe.ipea.gov.br/index.php/ppe/issue/archive)   | Ipea      | 1971   |          |
